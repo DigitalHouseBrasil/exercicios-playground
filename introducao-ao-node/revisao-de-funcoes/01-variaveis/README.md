@@ -1,6 +1,6 @@
 # Exercícios de variáveis
 
-Neste repositório, há os exercícios sobre o conteúdo de variáveis.
+Neste diretório, há os exercícios sobre o conteúdo de variáveis.
 
 A sequência é:
 
